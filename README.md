@@ -7,4 +7,4 @@ This project builds a machine learning model and creates an AI that generates (s
 - **Regular Expression** - To filter out undesirable tweets, we specify patterns of string data that are considered “bad”. A *regular expression* is a simple way to define such patterns.   
 - **Markov Chain** - The specific model we will use in this project is a Markov Chain. To train our Markov Chain, we’ll pass in tweets as sequences of words, which will then be analyzed in pairs so that our model can figure out which words should follow which other words.   
 
-<img src="" width="400" height="280" />
+<img src="https://github.com/botong516/Twitterbot/blob/main/Class%20and%20Task%20Diagram.png" />
